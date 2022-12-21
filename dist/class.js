@@ -57,3 +57,4 @@ let mike = new Manager(2, "Mike", {
     pin: "390008",
 });
 console.log(mike.getNameWithAddress());
+//# sourceMappingURL=class.js.map
